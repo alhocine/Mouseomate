@@ -1,3 +1,4 @@
+https://www.reddit.com/r/Python/comments/ghxqod/thanks_to_everyones_advice_my_mouse_drawing/
 Mouseomate V0.65
 By Nekose
 
